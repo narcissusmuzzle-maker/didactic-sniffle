@@ -1,0 +1,10 @@
+{
+  "name": "luv-diag-face",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Тестовый циферблат: читает данные Luv Diag из общей памяти часов",
+  "scripts": {
+    "build": "zeus build",
+    "test": "node tests/face.test.mjs"
+  }
+}
